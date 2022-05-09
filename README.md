@@ -1,2 +1,3 @@
 # barbershop-borodinski
-верстка сайта Барбершоп Бородинский (наставничество на html academy)
+
+demo - https://shamilfrontend.github.io/barbershop-borodinski/
